@@ -7,7 +7,7 @@ Overview
 
 Managing budgets is an essential part of running a business. Budgets help
 people become more intentional with the way money is spent and direct people
-to organize and prioritize their work to meet financial goals. They allows 
+to organize and prioritize their work to meet financial goals. They allow 
 you to plan your desired financial outcome and then measure your actual 
 performance against the plan. Odoo manages budgets using both General and Analytic 
 Accounts.
@@ -39,7 +39,7 @@ Budgetary Positions
 
 Budgetary positions are lists of accounts for which you want to keep
 budgets (typically expense or income accounts). They need to be defined
-so Odoo can know it which accounts he needs to go get the budget
+so Odoo can know which accounts are needed to get the budget
 information. 
 
 The budgetary positions act as a type of restriction on what can be recorded
